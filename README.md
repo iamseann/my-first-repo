@@ -1,5 +1,6 @@
 # my-first-repo
-This is my first github repository. I'm learning how to use git and github!
+#contributors
+Nathaniel Johns 
 # git add README.md
 # git commit -m "Updated README.md with project description"
 # git push origin main
